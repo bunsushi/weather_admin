@@ -13,5 +13,8 @@ var User = function (name, location) {
     }
 }
 
-// var test = new User('Tegan', 'Philadelphia, PA');
-// test.getWeather();
+var test = new User('Tegan', 'Philadelphia, PA');
+test.getWeather();
+console.log(test.date);
+
+module.exports = User;

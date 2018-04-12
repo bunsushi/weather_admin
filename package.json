@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/bunsushi/weather_admin#readme",
   "dependencies": {
+    "moment": "^2.22.0",
     "weather-js": "^2.0.0"
   }
 }
